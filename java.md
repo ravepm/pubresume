@@ -33,7 +33,7 @@
 - 熟练掌握 C#、Linq,EF等.net开发技术
 - 熟练使用extjs、JQuery、easyui、bootstrap等JS框架进行前端的搭建，掌握CSS+DIV,HTML ,能进行基本的页面布局，了解主流浏览器之间相关兼容性问题
 - 能进行软件文档的编写,使用visio,rose等进行UML建模
-- 良好的团队协作精神和自学能力,能独立完成完整的任务
+- 具备良好的团队协作精神和自学能力,亦能独立完成完整的任务
 
 * * *
 
@@ -96,8 +96,6 @@ Spring，SpringMVC，mybatis，WebServices，shiro，ActiveMQ等
 - 责任描述：
 个人独立完成
 
-
-
 ## 厦门信达信息技术有限公司（ 2014年8月 ~ 2015年6月 ）
 ## 工作内容
 
@@ -114,8 +112,6 @@ Spring，SpringMVC，mybatis，WebServices，shiro，ActiveMQ等
 Spring，SpringMVC，MyBatis，JQUERY，JQUERY -EASYUI
 - 责任描述：
 参与数据库设计，核心代码研发，项目测试、部署以及后期维护
-
-
 
 ## 厦门天语互联信息技术有限公司（ 2013年3月 ~ 2014年8月 ）
 ## 工作内容
@@ -140,17 +136,13 @@ ASP.NET，ADO.NET，JQUERY，JQUERY -EASYUI，JSON
 ASP.NET，ADO.NET，JQUERY，JSON
 - 责任描述：	
 参与数据库设计，线路展示，购买日期，座位数，工作日的判断，订单防篡改的校验，与支付宝的交互，以及订单提交时座位，车辆的分配等功能
-    
 
+* * *
 
 ## 福建吉马经贸有限公司 （ 2011年11月 ~ 2013年3月 ）
 ## 工作内容：
 - 基于MVC和地图API的业管理系统开发
-- OA，ERP的二次开发
-- 报表系统开发
+- OA，ERP的二次开发，报表系统开发
 
-* * *
- 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-      
